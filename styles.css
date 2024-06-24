@@ -83,7 +83,7 @@ header nav ul li a:hover, header nav ul li a.cta:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(25, 141, 54);
+    color: rgb(186, 250, 200);
     text-align: center;
     padding: 0 20px;
 }
@@ -99,7 +99,7 @@ header nav ul li a:hover, header nav ul li a.cta:hover {
 }
 
 .hero-content .cta {
-    background-color: #004202;
+    background-color: #62cf65;
     padding: 10px 20px;
     text-decoration: none;
     color: rgb(255, 255, 255);
